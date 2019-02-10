@@ -40,14 +40,18 @@ Project Issues:
 
         I also upload examples of how this map could be build for other years,user may need(1909,2000)
 
-Profiling Results:  summary of films in 1939 is 2973 and 1265 in 1945.
+Profiling Results: 
+
+    summary of films in 1939 is 2973 and 1265 in 1945.
     If to compare with other periods, cinematography has always been growing, but here we can see the result of
     how war influences on cultural regress.
     Also we can see that mainly the amount of movies has been reduced for territories involved in II World War
     (South and North America, Europe, China and Australia)
 
 
-Analysis Results: if to take in consideration the list of top 50 locations we can see that :
+Analysis Results: 
+                  
+                  if to take in consideration the list of top 50 locations we can see that :
                   1-3 places take Great Britain(London,Leicester Leicestershire England UK)
                                   USA(Los Angeles, New York,Hollywood Nashville,Chicago)
                                   Canada(Toronto,London Ontario,Vancouver)
