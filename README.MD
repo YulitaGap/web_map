@@ -47,6 +47,8 @@ Profiling Results:
     how war influences on cultural regress.
     Also we can see that mainly the amount of movies has been reduced for territories involved in II World War
     (South and North America, Europe, China and Australia)
+    This shows us one of the cinematography declines and we can clearly understand what was the reason for it.
+    
 
 
 Analysis Results: 
